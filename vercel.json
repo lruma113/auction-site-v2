@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "out",
+  "buildCommand": "npm run build && npm run export",
+  "framework": "nextjs"
+}
